@@ -1,5 +1,4 @@
 - @priyas32 <3
-- chasing eternally indestructible state of happiness🦋
 - exploring things!
 - 🌱currently learning..
 <!---
