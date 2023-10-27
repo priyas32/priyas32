@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 <ul>
    <li> Exploring things!</li>
    <li>🌱currently learning..</li>
+   <li>📚I’m currently studying data structures and algorithms </li>
    <li>👨‍💻 All of my projects are available at : https://github.com/priyas32 </li>
 </ul>
 
