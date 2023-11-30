@@ -23,6 +23,29 @@ You can click the Preview link to take a look at your changes.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
+
+
+<p align="center">
+  <img
+     width="466"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Priyas32&theme=radical&hide_border=true"
+    alt="Priyas32"
+  />
+</p>
+
+
+
+<p align="center">
+  <img 
+    width="left"   
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyas32&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"
+    alt="Priyas32"
+  />
+</p>
+
+
+
 <h2 align="center">Connect with me</h2>
 <div align="center">  
   <a href=" https://github.com/priyas32" target="_blank">
