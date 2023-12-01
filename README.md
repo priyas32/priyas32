@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">  I'm <a  href="https://www.linkedin.com/in/priya-singh-368208231">Priya Singh</a></h1>
 
-<h4 align="center">As an enthusiastic CSE student, I'm driven to explore and master emerging technologies, fostering a deep passion for continuous learning. Eager to contribute to open source, I aim to collaborate, innovate, and create impactful solutions, positively influencing the tech world's evolution.</h4>
+<h4 align="center">As an enthusiastic CSE student, I'm driven to explore and master emerging technologies, fostering a deep passion for continuous learning. Eager to contribute to open source, I aim to collaborate, innovate, and create impactful solutions, positively influencing the tech world's evolution ,by combining my love for coding with open-source collaboration, driving impactful advancements in technology.</h4>
 
 
 
